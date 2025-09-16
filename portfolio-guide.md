@@ -535,4 +535,4 @@ git push origin main
 - Speaking engagement opportunities
 - Professional certification maintenance
 
-This comprehensive guide provides the foundation for building a world-class portfolio that demonstrates expertise across cloud computing, artificial intelligence, and security domains while following modern web development best practices.
+The site is live at https://otito254.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
